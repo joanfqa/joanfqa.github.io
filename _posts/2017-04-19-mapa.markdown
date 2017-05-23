@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Mapa de Suïssa"
+date:   2017-04-18 19:50:46 +0200
+categories: suissa update
+---
+(RELLEU, RIUS I LLACS)
+
+RELLEU:
+
+El paisatge suís està caracteritzat pel massís dels Alps, que ocupa la part sud i central del país. Als Alps Suïssos hi ha glaceres i hi neixen alguns dels rius més importants d’Europa, com el Rin i el Roine. Per això a Suïssa hi ha molts llacs com el Llac Leman, el Llac de Constança, el Llac de Zuric, el Llac de Neuchâtel i el Llac dels Quatre Cantons. La part nord de Suïssa, la més poblada, és la més oberta, però encara és bastant muntanyosa.
+
+
+LLACS:
+
+El Llac dels Quatre Cantons fa 38 km de llargària des de la desembocadura fins a la sortida al riu Reuss. Està situat a 343 m per sobre el nivell del mar, ocupa una superfície 114 km2 i té una profunditat de 214 m.
+Abans del segle XVI (16) el llac s’anomenava Llac de Lucerna.
+
+En el Llac de Zuric els rius que hi desemboquen són bastant cabalosos i el llac és conegut per ser un dels més nets del país. El llac ocupa una superfície d’aproximadament 90 km2, s’allarga durant 40 km i l’amplada màxima és de 2 km. El lloc més profund és de 143 m. Aquest llac està a 406 metres per sobre el nivell del mar. El llac està majoritàriament al cantó de Zuric, però també ocupa els cantons de Schwyz i de Sankt Gallen.
+
+El Llac Leman és un llac que pertany a Suïssa i a França. El riu Roine el travessa d’est a oest. La seva superfície és de 582,4 km2 i la seva longitud de 72,8 km. La profunditat màxima d’aquest llac és de 309,7 m, l’amplària màxima de 13,8 km i es a 372 m per sobre el nivell del mar.
+El 58 aC Juli Cèsar el va utilitzar com a defensa natural durant la guerra de les Gàl·lies.
+
+El Llac de Constança o Bodensee està situat a una altitud de 395 m. Fa 536 km2 i és el tercer llac més gran d’Europa. La màxima profunditat és de 252 m. Aquest llac fa de frontera entre Alemanya, Suïssa i Àustria.
+
+
+RIUS:
+
+El riu Rin és la via fluvial més utilitzada d’Europa. Té una longitud de 1.300 km i és navegable en un tram de 833 km.
+El Rin neix a Suïssa, travessa sis països: Suïssa, Principiat de Liechtenstein, Àustria, Alemanya, França i Holanda i desemboca al Mar del Nord.
+
+El riu Roine neix a la Glaçera del Roine, a Suïssa, travessa França i desemboca al Mar Mediterrani. Durant el seu recorregut el Roine travessa el Llac Leman, el més gran de Suïssa. El Roine té una longitud de 812 km.
+
+![Mapa lingüístic de Suïssa]({{ site.url }}/assets/mapa_linguistic.png)
