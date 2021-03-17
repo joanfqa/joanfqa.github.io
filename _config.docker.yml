@@ -1,0 +1,7 @@
+url: "http://localhost:4000"
+#plugins:
+#  - jekyll-feed
+#  - jekyll-admin
+#exclude:
+#  - Gemfile
+#  - Gemfile.lock
